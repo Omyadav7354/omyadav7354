@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm [Palash Goud!](https://github.com/PalashGoud)!!
+# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm [Om Prakash!](https://github.com/Omyadav7354)!!
 
 </div>
 
@@ -13,10 +13,10 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 - 💡 &nbsp;I like to explore new technologies.
-- 🎓 &nbsp;I'm a student of Shri Vaishnav Vidhyapeeth Vishwadhalaya
-- 🌱 &nbsp;I'm currently learning full stack web development.
+- 🎓 &nbsp;I'm a student of IPS Academy indore
+- 🌱 &nbsp;I'm an full stack web development.
 - ❤ &nbsp;My favorite language: JavaScript.
-- ✉ &nbsp;You can email me at palashgoud607@gmail.com.
+- ✉ &nbsp;You can email me at omyadav7354@gmail.com.
 
 <!---
 --->
@@ -38,4 +38,4 @@
 ## :mailbox: Connect With Me
 
 <a href="https://www.linkedin.com/in/palash-goud-774634248/"><img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a>
-<a href="mailto: palashgoud607@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a>
+<a href="mailto: omyadav7354@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a>
